@@ -1,0 +1,62 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "brandon.tong.do@gmail.com",
+    "longName": "MoreTest",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/SmallHeart.png",
+                "name": "IMAGES_SMALLHEART_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/BigHeart.png",
+                "name": "IMAGES_BIGHEART_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/BiggestHeart.png",
+                "name": "IMAGES_BIGGESTHEART_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/SmallestHeart.png",
+                "name": "IMAGES_SMALLESTHEART_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "MoreTest",
+    "uuid": "1b4fd5de-976a-4cf0-aed3-5a15a0aef294",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
